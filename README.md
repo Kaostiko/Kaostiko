@@ -7,7 +7,7 @@ const kaostiko = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, Python],
   tools: [ÇReact, Node, MySQL, Bootstrap, Tailwind, Power BI, Excel]
-  challenge: "I'm working to become the best version of my as developer and data analist"
+  challenge: "I'm working to become the best version of myself as a developer and data analyst."
 }
 ```
 
